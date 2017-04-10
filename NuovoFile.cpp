@@ -1,6 +1,9 @@
 
-//New code for exploring of Atom
-
+/*
+New code for exploring of Atom
+Tommaso Salerno
+Liborio Riggi
+*/
 
 #include <iostream>
 #include <stdlib.h>
