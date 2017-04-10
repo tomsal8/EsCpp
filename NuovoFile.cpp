@@ -1,8 +1,9 @@
 
 /*
-New code for exploring of Atom
-Tommaso Salerno
-Liborio Riggi
+ New code for exploring of Atom
+ Tommaso Salerno (Prato 15/02/2000)
+ Liborio Riggi   (Ribera 1998)
+
 */
 
 #include <iostream>
