@@ -15,5 +15,8 @@ using namespace std;
 
 int main() {
 
+  system("color A0");
+  cout<<"\tPremere un tasto per continuare\t..."<<endl;
+  getch();
   return 0;
 }
